@@ -1,6 +1,6 @@
 Name:		texlive-xpdfopen
 Version:	53998
-Release:	1
+Release:	2
 Summary:	Commands to control PDF readers, under X11
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xpdfopen
