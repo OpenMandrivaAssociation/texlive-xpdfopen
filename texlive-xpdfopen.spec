@@ -3,7 +3,7 @@ Version:	53998
 Release:	2
 Summary:	Commands to control PDF readers, under X11
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xpdfopen
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xpdfopen
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xpdfopen.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xpdfopen.doc.r%{version}.tar.xz
